@@ -71,6 +71,10 @@ main {
     cursor: pointer;
     transition: .2s;
 }
+.btn-contato .bi{
+    padding-right: 10px;
+    color: greenyellow;
+}
 
 h2.titulo {
     color: var(--text-color);
@@ -102,7 +106,7 @@ header{
     width: 100%;
     min-height: 66px;
     padding: 0 100px;
-    background-color: #43a5f6;
+    background-color:var(--main-color);
     display: flex;
     justify-content: space-between;
     align-items: center;
