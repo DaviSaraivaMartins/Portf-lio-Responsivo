@@ -83,7 +83,7 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #0000FF;
+    color: #0000ff;
 }
 
 button:hover,
@@ -161,6 +161,8 @@ header ul li ul li ul{
     top: 0;
     left: 200px;
 }
+
+
 
 /* Desing Resposivel do menu */
 @media (max-width: 900px)
@@ -627,6 +629,7 @@ footer .line-footer p a {
     }
 
     /* TOPO DO SITE */
+   
 
     section.topo-do-site .flex {
         gap: 40px;
